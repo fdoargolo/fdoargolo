@@ -1,5 +1,5 @@
 # 👁️‍🗨️ About Me:
-Felipe Argôlo.<br>Tenho 19 anos e sou técnico de informática pelo Instituto Federal.<br>Atualmente estou me aprofundando em desenvolvimento web.
+Felipe Argôlo.<br>Tenho 19 anos e sou técnico de informática pelo Instituto Federal.<br>Atualmente estou me aprofundando em desenvolvimento web (tive que fazer essa nova conta aqui, mas vou manter vocês sempre atualizados!).
 
 
 ## 🌐 Socials:
