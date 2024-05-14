@@ -1,5 +1,5 @@
 # About Me:
-Felipe Argôlo.<br>Tenho 19 anos e sou técnico de informática pelo Instituto Federal.<br>Atualmente estou me aprofundando em Java e Spring, mas às vezes brinco com Js. <br>(tive que fazer essa nova conta aqui, mas vou manter vocês sempre atualizados!).
+Felipe Argôlo.<br>Tenho 19 anos e sou Desenvolvedor Java formado pelo Instituto Federal de Sergipe.<br>Atualmente estou me aprofundando em Java e Spring, mas às vezes brinco com Js.
 
 
 ## 🌐 Socials:
