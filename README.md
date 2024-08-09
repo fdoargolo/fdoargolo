@@ -1,5 +1,5 @@
 # About Me:
-Felipe Argôlo.<br>Tenho 19 anos e sou Desenvolvedor Back-end formado pelo Instituto Federal de Sergipe.<br>Atualmente estou me aprofundando em Java e Spring, mas às vezes brinco com C#/Js.
+Felipe Argôlo.<br>Tenho 19 anos e sou Desenvolvedor Back-end formado pelo Instituto Federal de Sergipe.<br>Atualmente estudo Sistemas de informação pela Universidade Tiradentes. <br> Por fora, estou me aprofundando em Java e Spring, mas às vezes brinco com C#/Js.
 
 
 ## 🌐 Socials:
