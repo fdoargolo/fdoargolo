@@ -1,4 +1,7 @@
 # About Me:
+Felipe Argôlo. <br>I am 19 years old and a Back-end Developer trained at the Federal Institute of Sergipe.<br>I am currently studying Information Systems at Tiradentes University.<br> On the side, I am deepening my knowledge in Java and Spring, but sometimes I like to play around with C# and JavaScript.
+
+(PT/BR)
 Felipe Argôlo.<br>Tenho 19 anos e sou Desenvolvedor Back-end formado pelo Instituto Federal de Sergipe.<br>Atualmente estudo Sistemas de informação pela Universidade Tiradentes. <br> Por fora, estou me aprofundando em Java e Spring, mas às vezes brinco com C#/Js.
 
 
