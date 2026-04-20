@@ -2,7 +2,7 @@
 Felipe Argôlo. <br>I am 21 years old and a Back-end Developer trained at the Federal Institute of Sergipe.<br>I am currently studying Information Systems at Tiradentes University.<br> 
 
 (PT/BR)
-Felipe Argôlo.<br>Tenho 20 anos e sou Desenvolvedor Back-end formado pelo Instituto Federal de Sergipe.<br>Atualmente estudo Sistemas de informação pela Universidade Tiradentes. <br> 
+Felipe Argôlo.<br>Tenho 21 anos e sou Desenvolvedor Back-end formado pelo Instituto Federal de Sergipe.<br>Atualmente estudo Sistemas de informação pela Universidade Tiradentes. <br> 
 
 
 ## 🌐 Socials:
